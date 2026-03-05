@@ -1,0 +1,15 @@
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\bin\Debug\net10.0\Todo.DataAccess.deps.json
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\bin\Debug\net10.0\Todo.DataAccess.dll
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\bin\Debug\net10.0\Todo.DataAccess.pdb
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\bin\Debug\net10.0\Todo.Entities.dll
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\bin\Debug\net10.0\Todo.Entities.pdb
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.Dat.9A4CB628.Up2Date
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.dll
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\refint\Todo.DataAccess.dll
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.pdb
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\ref\Todo.DataAccess.dll

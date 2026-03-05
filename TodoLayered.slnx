@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Todo.Business/Todo.Business.csproj" />
+  <Project Path="Todo.DataAccess/Todo.DataAccess.csproj" />
+  <Project Path="Todo.Entities/Todo.Entities.csproj" />
+  <Project Path="Todo.WebAPI/Todo.WebAPI.csproj" />
+</Solution>
