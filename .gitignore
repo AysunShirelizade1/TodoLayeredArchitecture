@@ -1,0 +1,23 @@
+bin/
+obj/
+.vs/
+.vscode/
+
+*.user
+*.suo
+*.cache
+*.log
+
+# Rider / VSCode
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# EF local databases
+*.db
+*.sqlite
+
+# Local configs
+appsettings.Development.json
