@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bin/
 obj/
 .vs/
@@ -21,3 +22,28 @@ Thumbs.db
 
 # Local configs
 appsettings.Development.json
+=======
+bin/
+obj/
+.vs/
+.vscode/
+
+*.user
+*.suo
+*.cache
+*.log
+
+# Rider / VSCode
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# EF local databases
+*.db
+*.sqlite
+
+# Local configs
+appsettings.Development.json
+>>>>>>> 41463ad (feat: add repository, service layer and dependency injection)

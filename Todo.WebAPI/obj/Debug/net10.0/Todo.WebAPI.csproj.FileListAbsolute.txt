@@ -150,6 +150,7 @@ C:\Users\ASUS\TodoLayered\Todo.WebAPI\obj\Debug\net10.0\Todo.WebAPI.AssemblyInfo
 C:\Users\ASUS\TodoLayered\Todo.WebAPI\obj\Debug\net10.0\Todo.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\TodoLayered\Todo.WebAPI\obj\Debug\net10.0\Todo.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ASUS\TodoLayered\Todo.WebAPI\obj\Debug\net10.0\Todo.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\TodoLayered\Todo.WebAPI\obj\Debug\net10.0\Todo.WebAPI.sourcelink.json
 C:\Users\ASUS\TodoLayered\Todo.WebAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\ASUS\TodoLayered\Todo.WebAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\ASUS\TodoLayered\Todo.WebAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json

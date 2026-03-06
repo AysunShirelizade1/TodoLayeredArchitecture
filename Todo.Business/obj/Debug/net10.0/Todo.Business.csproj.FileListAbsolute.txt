@@ -10,6 +10,7 @@ C:\Users\ASUS\TodoLayered\Todo.Business\obj\Debug\net10.0\Todo.Business.Generate
 C:\Users\ASUS\TodoLayered\Todo.Business\obj\Debug\net10.0\Todo.Business.AssemblyInfoInputs.cache
 C:\Users\ASUS\TodoLayered\Todo.Business\obj\Debug\net10.0\Todo.Business.AssemblyInfo.cs
 C:\Users\ASUS\TodoLayered\Todo.Business\obj\Debug\net10.0\Todo.Business.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\TodoLayered\Todo.Business\obj\Debug\net10.0\Todo.Business.sourcelink.json
 C:\Users\ASUS\TodoLayered\Todo.Business\obj\Debug\net10.0\Todo.Bus.0A393761.Up2Date
 C:\Users\ASUS\TodoLayered\Todo.Business\obj\Debug\net10.0\Todo.Business.dll
 C:\Users\ASUS\TodoLayered\Todo.Business\obj\Debug\net10.0\refint\Todo.Business.dll

@@ -8,6 +8,7 @@ C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.Gene
 C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.AssemblyInfoInputs.cache
 C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.AssemblyInfo.cs
 C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.sourcelink.json
 C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.Dat.9A4CB628.Up2Date
 C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\Todo.DataAccess.dll
 C:\Users\ASUS\TodoLayered\Todo.DataAccess\obj\Debug\net10.0\refint\Todo.DataAccess.dll
