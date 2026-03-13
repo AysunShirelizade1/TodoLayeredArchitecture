@@ -1,49 +1,89 @@
-<<<<<<< HEAD
+############################
+# Build results
+############################
+
 bin/
 obj/
-.vs/
-.vscode/
+out/
 
+############################
+# Visual Studio
+############################
+
+.vs/
 *.user
 *.suo
-*.cache
-*.log
+*.userosscache
+*.sln.docstates
 
-# Rider / VSCode
+############################
+# VS Code
+############################
+
+.vscode/
+
+############################
+# Rider
+############################
+
 .idea/
 
-# OS
+############################
+# OS Files
+############################
+
 .DS_Store
 Thumbs.db
 
-# EF local databases
-*.db
-*.sqlite
+############################
+# Logs
+############################
 
-# Local configs
-appsettings.Development.json
-=======
-bin/
-obj/
-.vs/
-.vscode/
-
-*.user
-*.suo
-*.cache
 *.log
 
-# Rider / VSCode
-.idea/
+############################
+# Environment files
+############################
 
-# OS
-.DS_Store
-Thumbs.db
+.env
+.env.*
 
-# EF local databases
-*.db
-*.sqlite
+############################
+# NuGet
+############################
 
-# Local configs
+*.nupkg
+*.snupkg
+
+############################
+# Secrets
+############################
+
+secrets.json
 appsettings.Development.json
->>>>>>> 41463ad (feat: add repository, service layer and dependency injection)
+
+############################
+# Publish
+############################
+
+publish/
+*.publishproj
+
+############################
+# Temporary files
+############################
+
+*.tmp
+*.temp
+
+############################
+# Test results
+############################
+
+TestResults/
+
+############################
+# Coverage reports
+############################
+
+coverage/

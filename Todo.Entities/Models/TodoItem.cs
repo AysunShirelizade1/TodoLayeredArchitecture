@@ -4,7 +4,7 @@ public class TodoItem : BaseEntity
 {
     public string Title { get; set; } = null!;
     public string? Description { get; set; }
-    public DateTime DueDate { get; set; }
+    public DateTime? DueDate { get; set; }
     public int StatusId { get; set; }
     public TodoStatus Status { get; set; } = null!;
     public int PriorityId { get; set; }

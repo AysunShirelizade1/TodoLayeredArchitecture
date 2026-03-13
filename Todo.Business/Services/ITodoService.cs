@@ -1,10 +1,13 @@
+using Todo.Business.DTOs;
 using Todo.Entities.Models;
+
 namespace Todo.Business.Services;
+
 public interface ITodoService
 {
-    Task<List<TodoItem>> GetAllAsync();
-    Task<TodoItem?> GetByIdAsync(int id);
-    Task<TodoItem> CreateAsync(string title, string? description, DateTime? dueDate);
-    Task<bool> CompleteAsync(int id);
-    Task<bool> DeleteAsync(int id);
+    Task<PagedResponseDto<TodoResponseDto>> GetAllAsync(TodoQuery query);
+    Task<TodoResponseDto?> GetByIdAsync(int id);
+    Task<(bool IsSuccess, List<string> Errors, TodoResponseDto? Data)> CreateAsync(TodoCreateDto dto);
+    Task<(bool IsSuccess, List<string> Errors, TodoResponseDto? Data)> UpdateAsync(TodoUpdateDto dto);
+    Task<(bool IsSuccess, string Message)> DeleteAsync(int id);
 }
